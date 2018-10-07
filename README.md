@@ -7,3 +7,5 @@ I studied how to:
   3. Push it on Github
   4. Merge that changes
   5. Create a new branch
+
+Now I am testing how to pull changes from GitHub
