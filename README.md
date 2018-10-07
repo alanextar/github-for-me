@@ -9,3 +9,4 @@ I studied how to:
   5. Create a new branch
 
 Now I am testing how to pull changes from GitHub
+Switching to a new branch
